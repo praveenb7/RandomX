@@ -1,4 +1,4 @@
-package com.example.randomnumbergenerator;
+package com.example.RandomX;
 
 import org.junit.Test;
 

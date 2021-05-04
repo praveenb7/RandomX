@@ -1,4 +1,4 @@
-package com.example.randomnumbergenerator;
+package com.example.RandomX;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.ActionBar;
@@ -12,10 +12,8 @@ import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
 import android.os.Bundle;
 import android.view.View;
-import android.view.ViewPropertyAnimator;
 import android.widget.Button;
 import android.widget.ImageView;
-import android.widget.TextView;
 
 public class Toss extends AppCompatActivity {
 
